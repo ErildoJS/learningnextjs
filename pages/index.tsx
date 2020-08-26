@@ -1,7 +1,7 @@
 
-
+import {Heading} from '@chakra-ui/core'
 function HomePage() {
-  return <div>welcome erildo</div>
+  return <Heading size="md">welcome erildo</Heading> 
 }
 
 export default HomePage
